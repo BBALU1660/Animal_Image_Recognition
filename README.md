@@ -70,7 +70,7 @@ Include example output images and performance metrics here to demonstrate the ca
 ## Contributing
 We welcome contributions to improve the model and expand its application range. Please refer to CONTRIBUTING.md for guidelines on how to contribute.
 
-## License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ```
