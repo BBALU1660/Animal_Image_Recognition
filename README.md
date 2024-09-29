@@ -67,7 +67,11 @@ This repository contains the implementation of an animal image recognition syste
 ## Results
 Include example output images and performance metrics here to demonstrate the capabilities of the model in real-world scenarios.
 
-## Contributing
+
+## Contributors
+- **Nikhil Balaji** - [GitHub](https://github.com/BBALU1660)
+- **Abhinav** - [GitHub](https://github.com/AAbhinav-Chowdary)
+- **Swaroop**
 
 
 ```
