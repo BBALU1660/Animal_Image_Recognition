@@ -1,0 +1,13 @@
+train: /content/drive/MyDrive/wld.v2i.yolov8/train
+val: /content/drive/MyDrive/wld.v2i.yolov8/valid
+test: /content/drive/MyDrive/wld.v2i.yolov8/test
+
+nc: 11
+names: ['4', 'Buffalo', 'Deer', 'Elephant', 'Giraffe-elephant-deer-lion-zebra', 'Girraffe', 'Hippopotamus', 'Lion', 'Swan', 'Wildebeast', 'Zebra']
+
+roboflow:
+  workspace: soumya-8ps2t
+  project: wild-life-animals-detection-and-tracking
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/soumya-8ps2t/wild-life-animals-detection-and-tracking/dataset/2
