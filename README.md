@@ -68,10 +68,7 @@ This repository contains the implementation of an animal image recognition syste
 Include example output images and performance metrics here to demonstrate the capabilities of the model in real-world scenarios.
 
 ## Contributing
-We welcome contributions to improve the model and expand its application range. Please refer to CONTRIBUTING.md for guidelines on how to contribute.
 
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ```
 
