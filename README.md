@@ -1,4 +1,4 @@
-Below is a detailed README.md that outlines the implementation of both YOLO v8 and YOLO v9 for your animal image recognition system:
+
 
 
 # Advanced Animal Image Recognition System
