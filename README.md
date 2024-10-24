@@ -70,6 +70,7 @@ Include example output images and performance metrics here to demonstrate the ca
 
 ## Contributors
 - **Nikhil Balaji** - [GitHub](https://github.com/BBALU1660)
+- **Srikanth** - [GitHub](https://github.com/Srikanth0903)
 - **Abhinav** - [GitHub](https://github.com/AAbhinav-Chowdary)
 - **Swaroop** - [GitHub](https://github.com/swaroopv4)
 
